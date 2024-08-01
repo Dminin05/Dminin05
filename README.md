@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dima</h1>
 <h3 align="center">I'm backend developer from Russia</h3>
 
-### I’m currently working on [diary-backend](https://github.com/Dminin05/Diary-backend) and learning **JUnit & Mockito.**
+### I’m currently working on [diary-backend]
 
 <div style="margin: 0 auto">
     <p>
